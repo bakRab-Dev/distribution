@@ -8,7 +8,7 @@ This is the official distribution repository for bakRab.
 - [利用規約](terms.md)
 - [プライバシーポリシー](privacy.md)
 
-## ScreenShot
+## 🖼️ ScreenShot
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7051b6ac-973f-4e99-b1df-3beaa29fb024" width="30%">
   <img src="https://github.com/user-attachments/assets/526e646c-af9a-4fba-ab3f-3a49dc260026" width="30%">
