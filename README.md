@@ -1,7 +1,7 @@
 # distribution
 This is the official distribution repository for bakRab.
 
-- [Releases](https://github.com/bakRab-Dev/distribution/releases)
+- [Releases/latest](https://github.com/bakRab-Dev/distribution/releases/latest)
 
 ご利用にあたっては、以下の利用規約およびプライバシーポリシーに同意いただいたものとみなします。
 
